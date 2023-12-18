@@ -13,5 +13,7 @@ iii) There can be multiple instances of clients connected to the same server for
 
 > Say your _"discord"_ server is up and running. Now we can connect clients to this server. So run the client.py file. Enter the relevant details and that is it, you're connected to the server.
 
-# NOTE : If you face any issues try contacting me at tanishqd63@gmail.com or https://www.instagram.com/tanishqq_dadhich
+# NOTE 
+
+If you face any issues try contacting me at tanishqd63@gmail.com or https://www.instagram.com/tanishqq_dadhich
 
